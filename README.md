@@ -1,12 +1,35 @@
-# React + Vite
+# 🤖 ChatBot – Smart AI Assistant  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ChatBot is an interactive and responsive AI-powered chatbot built using **React** and **CSS**.  
+It provides a smooth and conversational user experience with a clean UI design.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📂 Project Overview
+This project demonstrates how to build a **chatbot interface** using React.  
+It focuses on:  
+- Building reusable React components  
+- Handling dynamic chat responses  
+- Designing a clean and responsive UI with CSS  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+- 💬 Real-time Chat Responses  
+- 🎨 Sleek & Minimal UI with Custom CSS  
+- ⚡ Fast and Responsive Performance  
+- 🔄 Auto Scroll & Dynamic Rendering  
+- 🖥️ Works Seamlessly on Desktop & Mobile  
+
+---
+
+## 🛠️ Tech Stack
+| Technology | Usage |
+|------------|--------|
+| React.js   | Frontend framework for building UI |
+| CSS3       | Custom styling and responsiveness |
+
+---
+
+## 🔗 Live Demo
+👉 [Click Here to View the Live Project](https://ai-chatbot-reactjs-kjx8.onrender.com)
