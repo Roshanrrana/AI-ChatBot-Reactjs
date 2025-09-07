@@ -1,7 +1,7 @@
 # 🤖 ChatBot – Smart AI Assistant  
 
-ChatBot is an interactive and responsive AI-powered chatbot built using **React** and **CSS**.  
-It provides a smooth and conversational user experience with a clean UI design.  
+ChatBot is an interactive and responsive AI-powered chatbot built using **React (Vite)** and **CSS**.  
+It provides a smooth and conversational user experience with a clean UI design. 
 
 ---
 
