@@ -24,10 +24,10 @@ It focuses on:
 ---
 
 ## 🛠️ Tech Stack
-| Technology | Usage |
-|------------|--------|
-| React.js   | Frontend framework for building UI |
-| CSS3       | Custom styling and responsiveness |
+| Technology   | Usage |
+|--------------|--------|
+| React (Vite) | Frontend framework & bundler for building UI |
+| CSS3         | Custom styling and responsiveness |
 
 ---
 
